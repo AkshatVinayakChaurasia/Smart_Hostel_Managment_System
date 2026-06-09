@@ -1,3 +1,4 @@
+# Smart_Hostel_Managment_System
 # HostelHub – Smart Hostel Management System
 
 A console-based, menu-driven Smart Hostel Management System built in Python.
