@@ -1,0 +1,35 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "Arjun Sharma",
+        "course": "B.Tech CSE",
+        "year": 2,
+        "mobile": "9876543210",
+        "address": "12, MG Road, Pune",
+        "room_number": "101",
+        "joined_date": "2024-07-15",
+        "is_active": true
+    },
+    {
+        "student_id": "STU002",
+        "name": "Priya Patel",
+        "course": "B.Sc Physics",
+        "year": 1,
+        "mobile": "9123456780",
+        "address": "45, Shivaji Nagar, Mumbai",
+        "room_number": "102",
+        "joined_date": "2024-07-20",
+        "is_active": true
+    },
+    {
+        "student_id": "STU003",
+        "name": "Rahul Verma",
+        "course": "MBA",
+        "year": 1,
+        "mobile": "9988776655",
+        "address": "7, Park Street, Delhi",
+        "room_number": "103",
+        "joined_date": "2024-08-01",
+        "is_active": true
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "complaint_id": "CMP001",
+        "student_id": "STU001",
+        "student_name": "Arjun Sharma",
+        "complaint_type": "Internet",
+        "description": "WiFi is very slow in Room 101 since last 3 days.",
+        "priority": "High",
+        "status": "In Progress",
+        "filed_date": "2025-06-01",
+        "resolved_date": "",
+        "remarks": "Technician assigned"
+    },
+    {
+        "complaint_id": "CMP002",
+        "student_id": "STU002",
+        "student_name": "Priya Patel",
+        "complaint_type": "Cleanliness",
+        "description": "Common bathroom needs cleaning urgently.",
+        "priority": "Medium",
+        "status": "Open",
+        "filed_date": "2025-06-04",
+        "resolved_date": "",
+        "remarks": ""
+    },
+    {
+        "complaint_id": "CMP003",
+        "student_id": "STU003",
+        "student_name": "Rahul Verma",
+        "complaint_type": "Maintenance",
+        "description": "Ceiling fan in Room 103 is making loud noise.",
+        "priority": "Low",
+        "status": "Resolved",
+        "filed_date": "2025-05-28",
+        "resolved_date": "2025-06-02",
+        "remarks": "Fan motor replaced"
+    }
+]

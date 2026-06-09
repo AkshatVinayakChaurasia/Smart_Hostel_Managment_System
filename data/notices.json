@@ -1,0 +1,32 @@
+[
+    {
+        "notice_id": "NOT001",
+        "title": "Hostel Fee Due Reminder",
+        "content": "All students are reminded that the hostel fee for June 2025 is due by 5th June 2025. Late payment will attract a fine of Rs.50 per day.",
+        "category": "Fee",
+        "posted_by": "Admin",
+        "posted_date": "2025-06-01",
+        "expiry_date": "2025-06-10",
+        "is_important": true
+    },
+    {
+        "notice_id": "NOT002",
+        "title": "Water Supply Maintenance",
+        "content": "Water supply will be interrupted on 8th June 2025 from 9:00 AM to 1:00 PM due to pipeline maintenance. Please store water in advance.",
+        "category": "Maintenance",
+        "posted_by": "Admin",
+        "posted_date": "2025-06-05",
+        "expiry_date": "2025-06-09",
+        "is_important": false
+    },
+    {
+        "notice_id": "NOT003",
+        "title": "Hostel Cultural Night",
+        "content": "Cultural Night event is scheduled on 15th June 2025 at 6:00 PM in the hostel courtyard. All residents are invited.",
+        "category": "Event",
+        "posted_by": "Admin",
+        "posted_date": "2025-06-05",
+        "expiry_date": "2025-06-16",
+        "is_important": false
+    }
+]

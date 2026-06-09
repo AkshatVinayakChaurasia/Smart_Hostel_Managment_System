@@ -1,0 +1,8 @@
+# No external dependencies required.
+# Uses Python standard library only:
+# - sqlite3
+# - json
+# - os
+# - datetime
+# - csv
+# - getpass

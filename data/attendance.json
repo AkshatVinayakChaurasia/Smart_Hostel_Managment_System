@@ -1,0 +1,56 @@
+[
+    {
+        "record_id": "ATT001",
+        "student_id": "STU001",
+        "student_name": "Arjun Sharma",
+        "date": "2025-06-01",
+        "status": "Present",
+        "in_time": "09:00",
+        "out_time": "22:00"
+    },
+    {
+        "record_id": "ATT002",
+        "student_id": "STU002",
+        "student_name": "Priya Patel",
+        "date": "2025-06-01",
+        "status": "Present",
+        "in_time": "08:45",
+        "out_time": "21:30"
+    },
+    {
+        "record_id": "ATT003",
+        "student_id": "STU003",
+        "student_name": "Rahul Verma",
+        "date": "2025-06-01",
+        "status": "Absent",
+        "in_time": "",
+        "out_time": ""
+    },
+    {
+        "record_id": "ATT004",
+        "student_id": "STU001",
+        "student_name": "Arjun Sharma",
+        "date": "2025-06-02",
+        "status": "Present",
+        "in_time": "09:15",
+        "out_time": "22:15"
+    },
+    {
+        "record_id": "ATT005",
+        "student_id": "STU002",
+        "student_name": "Priya Patel",
+        "date": "2025-06-02",
+        "status": "Leave",
+        "in_time": "",
+        "out_time": ""
+    },
+    {
+        "record_id": "ATT006",
+        "student_id": "STU003",
+        "student_name": "Rahul Verma",
+        "date": "2025-06-02",
+        "status": "Present",
+        "in_time": "09:00",
+        "out_time": "21:00"
+    }
+]

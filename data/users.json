@@ -1,0 +1,26 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin",
+        "name": "Hostel Warden"
+    },
+    {
+        "username": "STU001",
+        "password": "stu001",
+        "role": "student",
+        "name": "Arjun Sharma"
+    },
+    {
+        "username": "STU002",
+        "password": "stu002",
+        "role": "student",
+        "name": "Priya Patel"
+    },
+    {
+        "username": "STU003",
+        "password": "stu003",
+        "role": "student",
+        "name": "Rahul Verma"
+    }
+]

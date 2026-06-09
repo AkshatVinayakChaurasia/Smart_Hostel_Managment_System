@@ -1,0 +1,41 @@
+[
+    {
+        "fee_id": "FEE001",
+        "student_id": "STU001",
+        "student_name": "Arjun Sharma",
+        "amount_due": 5000.0,
+        "amount_paid": 5000.0,
+        "fine_amount": 0.0,
+        "month": "June 2025",
+        "due_date": "2025-06-05",
+        "payment_date": "2025-06-03",
+        "status": "Paid",
+        "remarks": "Paid on time"
+    },
+    {
+        "fee_id": "FEE002",
+        "student_id": "STU002",
+        "student_name": "Priya Patel",
+        "amount_due": 5000.0,
+        "amount_paid": 2500.0,
+        "fine_amount": 0.0,
+        "month": "June 2025",
+        "due_date": "2025-06-05",
+        "payment_date": "",
+        "status": "Partial",
+        "remarks": "Remaining Rs.2500 to be paid by 15 June"
+    },
+    {
+        "fee_id": "FEE003",
+        "student_id": "STU003",
+        "student_name": "Rahul Verma",
+        "amount_due": 5000.0,
+        "amount_paid": 0.0,
+        "fine_amount": 0.0,
+        "month": "June 2025",
+        "due_date": "2025-06-05",
+        "payment_date": "",
+        "status": "Pending",
+        "remarks": ""
+    }
+]
