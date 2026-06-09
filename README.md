@@ -8,8 +8,9 @@ A console-based, menu-driven Smart Hostel Management System built in Python.
 - SQLite3 / JSON file handling
 - Standard Python libraries only
 
-# ID: admin
-# Password: admin123
+## Login credentials:
+- ID: admin
+- Password: admin123
 
 ## Project Structure
 
