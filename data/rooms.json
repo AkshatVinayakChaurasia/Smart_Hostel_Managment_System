@@ -18,16 +18,14 @@
         "room_number": "102",
         "room_type": "Single",
         "capacity": 1,
-        "occupied": 1,
+        "occupied": 0,
         "floor": 1,
         "amenities": [
             "AC",
             "WiFi",
             "Attached Bathroom"
         ],
-        "occupants": [
-            "STU002"
-        ]
+        "occupants": []
     },
     {
         "room_number": "103",

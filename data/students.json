@@ -17,7 +17,7 @@
         "year": 1,
         "mobile": "9123456780",
         "address": "45, Shivaji Nagar, Mumbai",
-        "room_number": "102",
+        "room_number": "Not Allocated",
         "joined_date": "2024-07-20",
         "is_active": true
     },
@@ -30,6 +30,17 @@
         "address": "7, Park Street, Delhi",
         "room_number": "103",
         "joined_date": "2024-08-01",
+        "is_active": true
+    },
+    {
+        "student_id": "STU004",
+        "name": "Aditya Singh",
+        "course": "B.Tech",
+        "year": 1,
+        "mobile": "1234567890",
+        "address": "Niet",
+        "room_number": "Not Allocated",
+        "joined_date": "2026-06-10",
         "is_active": true
     }
 ]

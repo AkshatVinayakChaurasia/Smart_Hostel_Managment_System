@@ -22,5 +22,11 @@
         "password": "stu003",
         "role": "student",
         "name": "Rahul Verma"
+    },
+    {
+        "username": "STU004",
+        "password": "stu004",
+        "role": "student",
+        "name": "Aditya Singh"
     }
 ]
